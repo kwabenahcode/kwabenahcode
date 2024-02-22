@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwabenahcode" alt="kwabenahcode" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual University App**
+- 🔭 I’m currently working on **E-commerce Site**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS & Django**
 
-- 💬 Ask me about **Python Django, Web Scraping**
+- 💬 Ask me about **Python Django, Web Scraping, Web Dev**
 
-- 📫 How to reach me **mrofori@gmail.com**
+- 📫 How to reach me **mrofori507@gmail.com**
 
-- ⚡ Fun fact **I love to read the Bible**
+- ⚡ Word of Life **If it is only in this Life that you have hope in Christ, then you are of all men most Miserable. 1 Corinthians 15:19**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
