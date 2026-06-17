@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwabenahcode" alt="kwabenahcode" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Site**
+- 🔭 I’m currently working on **Music Website** 
 
-- 🌱 I’m currently learning **React JS & Django**
-
-- 💬 Ask me about **Python Django, Web Scraping, Web Dev**
+- 💬 Ask me about **Python Django, Web Scraping, Web Dev, Data Analysis**
 
 - 📫 How to reach me **mrofori507@gmail.com**
 
